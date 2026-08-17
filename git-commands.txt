@@ -4,3 +4,14 @@ git add
 git status 
 git clear
 git commit -m "adding testing files"
+git status
+git add
+git commit -m "Upload my files"
+git branch -M main
+git push -u origin main
+
+Description
+uploading files via local to github we should always use the SSH key or the PAT(personal access token)
+using the repository URL 
+Demo
+https://PAT ID /Usename-repository-name.git
