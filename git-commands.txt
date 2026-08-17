@@ -10,7 +10,7 @@ git commit -m "Upload my files"
 git branch -M main
 git push -u origin main
 git checkout (branch name) / git Switch
-git log (check the latest Head Commit)
+git log --oneline (check the latest Head Commit)
 
 
 
