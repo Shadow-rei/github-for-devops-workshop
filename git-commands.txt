@@ -4,11 +4,15 @@ git add
 git status 
 git clear
 git commit -m "adding testing files"
-git status
+git status (to check Branch)
 git add
 git commit -m "Upload my files"
 git branch -M main
 git push -u origin main
+git checkout (branch name) / git Switch
+git log (check the latest Head Commit)
+
+
 
 Description
 uploading files via local to github we should always use the SSH key or the PAT(personal access token)
