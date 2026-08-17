@@ -1,0 +1,6 @@
+git status
+clear
+git add
+git status 
+git clear
+git commit -m "adding testing files"
